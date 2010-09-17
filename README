@@ -1,0 +1,3 @@
+== Seeds
+Seeds is a simple library of reusable Cucumber steps that builds
+on the steps provided by Capybara.
