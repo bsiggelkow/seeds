@@ -1,0 +1,2 @@
+module Seeds
+end
